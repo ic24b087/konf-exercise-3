@@ -1,2 +1,2 @@
 # konf-exercise-3
-Git exercises for Configuration Management - Exercise Sheet 3
+This README was modified in repository 1.
